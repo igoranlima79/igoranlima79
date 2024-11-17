@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igoranlima79
 - 👀 I’m interested in develop programs!!
-- 🌱 I’m currently learning some codelanguages in my university..
+- 🌱 I’m currently learning some codelanguages in my university.
 - 💞️ I’m looking to collaborate on automate projects.
 
 <!---
